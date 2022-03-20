@@ -1,0 +1,11 @@
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\KeyboardBackend.exe
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\KeyboardBackend.dll
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\KeyboardBackend.deps.json
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\KeyboardBackend.runtimeconfig.json
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\KeyboardBackend.pdb
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\timho\Documents\repos\KeyboardBackend\KeyboardBackend\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

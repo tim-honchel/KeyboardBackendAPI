@@ -8,21 +8,16 @@ using Microsoft.AspNetCore.Cors;
 
 namespace KeyboardBackend.Controllers
 {
-    [Route("api/[controller]")]
+    
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        public Dictionary dictionary = new Dictionary(); 
-        [EnableCors]
-        [HttpGet]
-        public string[] GetWordList()
-        {
+        public Dictionary dictionary = new Dictionary();
 
-            return dictionary.wordList.ToArray();
-        }
+        [Route("/")]
         [EnableCors]
         [HttpGet("{searchString}")]
-        public string[] getCharactersAndResults(string searchString)
+        public string[] Get(string searchString)
         {
             searchString = searchString.ToLower();
             var charactersAndResults = new string[] { "A", "C", "M", "P", "S", "T", "U", "and", "for", "have", "not", "that", "the", "this", "with", "you" };
