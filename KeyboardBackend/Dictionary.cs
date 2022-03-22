@@ -5,6 +5,7 @@ using System.Linq;
 
 namespace KeyboardBackend
 {
+    // gets and stores alphabetized list of thousands of English words
     public class Dictionary
     {
         public List<string> wordList { get; set; }

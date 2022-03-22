@@ -17,6 +17,8 @@ namespace KeyboardBackend.Controllers
         [Route("/")]
         [EnableCors]
         [HttpGet("{searchString}")]
+
+        // inputs a search string, finds all words that begin with that string, counts the frequency of the next letter, and returns the top 7 letters and 9 results
         public string[] Get(string searchString)
         {
             searchString = searchString.ToLower();
